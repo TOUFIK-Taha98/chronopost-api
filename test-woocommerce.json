@@ -1,0 +1,40 @@
+{
+  "order_id": "12345",
+  "number": "12345",
+  "billing": {
+    "first_name": "Marie",
+    "last_name": "Martin",
+    "email": "marie.martin@example.com",
+    "phone": "0698765432",
+    "address_1": "45 Avenue des Champs-Elysees",
+    "address_2": "3eme etage",
+    "city": "Paris",
+    "postcode": "75008",
+    "country": "FR"
+  },
+  "shipping": {
+    "first_name": "Marie",
+    "last_name": "Martin",
+    "address_1": "45 Avenue des Champs-Elysees",
+    "address_2": "3eme etage",
+    "city": "Paris",
+    "postcode": "75008",
+    "country": "FR",
+    "phone": "0698765432"
+  },
+  "line_items": [
+    {
+      "name": "Produit A",
+      "quantity": 2,
+      "weight": "0.5"
+    },
+    {
+      "name": "Produit B",
+      "quantity": 1,
+      "weight": "1.2"
+    }
+  ],
+  "total": "89.90",
+  "total_weight": 2.2,
+  "ship_date": "2026-02-03"
+}

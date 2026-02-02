@@ -1,0 +1,22 @@
+{
+  "orderNumber": "TEST-001",
+  "recipient": {
+    "name": "Jean Dupont",
+    "address1": "123 Rue de la Liberté",
+    "address2": "Appartement 5",
+    "zipCode": "69001",
+    "city": "Lyon",
+    "country": "FR",
+    "email": "jean.dupont@example.com",
+    "phone": "0612345678"
+  },
+  "parcel": {
+    "weight": 2.5,
+    "length": 30,
+    "width": 20,
+    "height": 15
+  },
+  "productCode": "5N",
+  "service": "0",
+  "shipDate": "2026-02-05"
+}
